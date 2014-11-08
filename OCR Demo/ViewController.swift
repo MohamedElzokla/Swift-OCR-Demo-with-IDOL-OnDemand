@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var textFromOcr: UITextView!
     
     //OCR settings
-    let apiKey = "7785fb90-db1f-454b-9b19-37f389dd50ec"
+    let apiKey = "PUT YOUR API KEY HERE"
     //Sample Images - Use yours if you want.
     let ocrImageUrl1 = "http://www.joyintheaftermath.com/wp-content/uploads/2014/08/meaningoflife.png"
     let ocrImageUrl2 = "http://i.imgur.com/8UcN9ly.jpg"
