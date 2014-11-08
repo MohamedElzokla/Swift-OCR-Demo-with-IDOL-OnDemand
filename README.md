@@ -1,21 +1,10 @@
 
-
-
-Music Player
-============
-
-Fully functional music player which is written in swift programming language. 
-
- ![alt tag](https://raw.githubusercontent.com/bpolat/Music-Player/master/Music%20Player/music%20player.gif)
-
-
 Swift OCR Demo 
 ==================
 
 Converting Images into text by using HP's IDOL OnDemand service - iOS app which is written with Swift
 
 ![alt tag](https://raw.githubusercontent.com/bpolat/Swift-OCR-Demo-with-IDOL-OnDemand/master/OCR%20Demo/demo.gif)
-
 
 
 
