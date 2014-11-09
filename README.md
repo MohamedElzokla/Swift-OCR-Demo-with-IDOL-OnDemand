@@ -30,6 +30,6 @@ Feel free to use code and artwork for commercial and personel usage.  If you wan
 Credits
 =================================
 
-HP IDOL OnDemand :  https://www.idolondemand.com
+HP IDOL OnDemand :  https://www.idolondemand.com               
 SwiftyJson https://github.com/SwiftyJSON/SwiftyJSON
 
